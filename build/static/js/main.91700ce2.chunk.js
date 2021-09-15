@@ -1,2 +1,0 @@
-(this.webpackJsonpvideoapp=this.webpackJsonpvideoapp||[]).push([[0],{10:function(e,n,t){"use strict";t.r(n);t(0);var p=t(3),c=t.n(p),o=(t(8),t(1)),i=function(){return Object(o.jsx)("h1",{children:"Hola Mundo"})};c.a.render(Object(o.jsx)(i,{}),document.getElementById("app"))},8:function(e,n,t){}},[[10,1,2]]]);
-//# sourceMappingURL=main.91700ce2.chunk.js.map
